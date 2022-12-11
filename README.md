@@ -10,9 +10,9 @@
 
 Сохраните в Git скриншот страницы шаблона с названием “Задание 1”`
 
-1) ![alt text](https://github.com/vmmaltsev/screnshot/blob/main/Задание 1.png)
-![alt text](https://github.com/vmmaltsev/screnshot/blob/main/Задание 1-2.png)
-![alt text](https://github.com/vmmaltsev/screnshot/blob/main/Задание 1-3.png)
+1) ![alt text](https://github.com/vmmaltsev/screnshot/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201.png)
+![alt text](https://github.com/vmmaltsev/screnshot/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201-2.png)
+![alt text](https://github.com/vmmaltsev/screnshot/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%201-3.png)
 
 ---
 
@@ -34,7 +34,7 @@
 
 Сохраните в Git скриншот страницы хостов где будут видны привязки шаблонов с названием “Задание 2-3”. Хосты должны иметь зелёный статус подключения`
 
-1) ![alt text](https://github.com/vmmaltsev/screnshot/blob/main/Задание 2 - 3.png)
+1) ![alt text](https://github.com/vmmaltsev/screnshot/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%202%20-%203.png)
 
 ---
 
@@ -46,7 +46,7 @@
 
 Сохраните в Git скриншот дашборда с названием “Задание 4”`
 
-1) ![alt text](https://github.com/vmmaltsev/screnshot/blob/main/Задание 4.png)
+1) ![alt text](https://github.com/vmmaltsev/screnshot/blob/main/%D0%97%D0%B0%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%204.png)
 
 
 
